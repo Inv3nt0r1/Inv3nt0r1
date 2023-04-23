@@ -1,6 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-[![](/profile.gif)](https://www.linkedin.com/in/durgeshpachghare/)<!-- If you want the template for my gif, email me! -->
+[![](/assets/profile.gif)](https://www.linkedin.com/in/durgeshpachghare/)<!-- If you want the template for my gif, email me! -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInv3nt0r1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)  [![LinkedinBadge](https://img.shields.io/badge/-durgeshpachghare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgeshpachghare/)](https://www.linkedin.com/in/durgeshpachghare/)  [![InstagramBadge](https://img.shields.io/badge/-@durgesh_pachghare-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/durgesh_pachghare)](https://instagram.com/durgesh_pachghare)  [![GmailBadge](https://img.shields.io/badge/-durgeshpachghare01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:durgeshpachghare01@gmail.com)](mailto:durgeshpachghare01@gmail.com)
+
 <!--
 **Inv3nt0r1/Inv3nt0r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
